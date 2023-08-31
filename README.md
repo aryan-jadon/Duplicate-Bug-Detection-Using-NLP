@@ -27,7 +27,7 @@ network for retrieval.
 
 ### Pre-requisites:
 - Make sure you have Python and pip installed.
-- 
+  
 Steps:
 
 1. **Clone the repository (if you haven't already)**:
